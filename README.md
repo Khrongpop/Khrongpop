@@ -50,8 +50,4 @@ Hi! I’m [Khrongpop Phonngam](https://mr-khrongpop.firebaseapp.com). You can ca
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21hzehentnkrcocydct4mjo2i)
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Khrongpop&layout=compact&theme=gotham">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khrongpop&layout=compact&theme=gotham" />
-</a>
-
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khrongpop&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khrongpop&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
