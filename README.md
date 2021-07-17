@@ -53,7 +53,7 @@ Hi! I’m [Khrongpop Phonngam](https://mr-khrongpop.firebaseapp.com). You can ca
 ![Khrongpop's GitHub stats](https://github-readme-stats.vercel.app/api?username=khrongpop&show_icons=true&theme=gotham)
 
 
-[![Khrongpop's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khrongpop&theme=gotham&layout=compact&langs_count=10&hide=c%23,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Khrongpop's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khrongpop&theme=gotham&layout=compact&langs_count=10&hide=c%23,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Khrongpop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khrongpop&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
