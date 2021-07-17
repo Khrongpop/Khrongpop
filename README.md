@@ -52,5 +52,5 @@ Hi! I’m [Khrongpop Phonngam](https://mr-khrongpop.firebaseapp.com). You can ca
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khrongpop&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khrongpop&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khrongpop&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
