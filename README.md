@@ -50,7 +50,10 @@ Hi! I’m [Khrongpop Phonngam](https://mr-khrongpop.firebaseapp.com). You can ca
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21hzehentnkrcocydct4mjo2i)
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khrongpop&theme=dark&layout=compact&langs_count=10&hide=c#,html)](https://github.com/anuraghazra/github-readme-stats)
+![Khrongpop's GitHub stats](https://github-readme-stats.vercel.app/api?username=khrongpop&show_icons=true&theme=gotham)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khrongpop&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Khrongpop's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khrongpop&theme=gotham&layout=compact&langs_count=10&hide=c#,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Khrongpop's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khrongpop&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
