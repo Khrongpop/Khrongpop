@@ -5,19 +5,19 @@
 Hi! I’m [Khrongpop Phonngam](https://mr-khrongpop.firebaseapp.com). You can call me Muang. I’m Software Developer from Thailand. I’m interested in good project structure management and I like to learn new things. When I’m free, I like to read the blog or be the author of my own blog sometimes and I am also interested in electrics guitar and PC game.
 
 - 🔭 I’m currently working on Golang and Microservice
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning Blockcahins & Cryptocurrency
 - 😄 Pronouns: Muang
 - ⚡ Fun fact: 🏔️ 📸 💻 🎧 🎸
 
 <h3>Things I code with</h3>
 <p>
- 
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis">
